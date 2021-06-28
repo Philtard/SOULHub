@@ -21,7 +21,7 @@
     <hibernate-validator.version>6.1.5.Final</hibernate-validator.version>
     <jaxb-impl.version>2.3.3</jaxb-impl.version>
     <jaxb-maven-plugin.version>2.5.0</jaxb-maven-plugin.version>
-    <vaadin.version>14.4.4</vaadin.version>
+    <vaadin.version>14.6.2</vaadin.version>
     <webdrivermanager.version>3.8.1</webdrivermanager.version>
     <hibernate-search.version>5.11.5.Final</hibernate-search.version>
     <acewidget.version>1.4-Beta</acewidget.version>
